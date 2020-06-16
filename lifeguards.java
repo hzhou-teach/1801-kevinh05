@@ -1,4 +1,3 @@
-package usaco2018january;
 //package usaco2018january;
 //All ten tests work no errors
 //30 min
